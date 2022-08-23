@@ -3,8 +3,8 @@
 </div>
 <div align="center">
   <a href="https://github.com/bruno-fonoff">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=midnight-purple&hide=Shell&langs_count=6"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=bruno-fonoff&show_icons=true&theme=midnight-purple&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=midnight-purple&hide=Shell&langs_count=6"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=bruno-fonoff&show_icons=true&theme=midnight-purple&count_private=true"/>
  </div>   
    
 ## 🧰   Skills :
