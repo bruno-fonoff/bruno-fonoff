@@ -46,6 +46,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" />
 </div>
 
+<br>  
+<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bruno-fonoff&color=yellow" alt="Profile views" /> </p>
           
           
