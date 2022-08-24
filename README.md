@@ -1,18 +1,17 @@
+<h1 align="center">🖖  Hey, I'm Bruno Fonoff  </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bruno-fonoff&color=yellow" alt="Profile views" /> </p>
+
+<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=midnight-purple&hide=Shell&langs_count=6" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=midnight-purple&hide=Shell&langs_count=6"/>
+
 <div align="center">
-<h1>🖖  Hey, I'm Bruno Fonoff  </h1>
-</div>
-<div align="center">
-<a href="https://github.com/bruno-fonoff">
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=midnight-purple&hide=Shell&langs_count=6"/>
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=bruno-fonoff&show_icons=true&theme=midnight-purple&count_private=true"/>
-</div> 
-<div align="center">
-<h2><------------------------------------------ 🧰 Skills ------------------------------------------></h2>
+<h2> 🧰 Skills</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" height="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50"/>
   
 ##
+
+<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=bruno-fonoff&show_icons=true&theme=midnight-purple&count_private=true"/>
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailWind" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50">
@@ -27,8 +26,11 @@
 
 </div>
 <br/>
+
+
+
 <div align="center">
-<h2><---------------------------------------- 📝 Learning ----------------------------------------></h2>
+<h2>📝 Learning </h2>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
@@ -39,7 +41,7 @@
 
 <br/>  
  
-<h2><----------------------------------------- 📧  Contact -----------------------------------------></h2>
+<h2> 📧  Contact </h2>
 <a href="https://www.linkedin.com/in/bruno-fonoff/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" />
 </div>
