@@ -49,7 +49,7 @@
 <br>  
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bruno-fonoff&color=yellow" alt="Profile views" /> </p>
+
           
           
           
