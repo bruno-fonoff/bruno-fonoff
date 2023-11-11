@@ -17,6 +17,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Mui" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="50">
 <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=bruno-fonoff&show_icons=true&theme=midnight-purple&count_private=true"/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=tokyonight)
+
 
 ##
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="50">
