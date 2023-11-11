@@ -2,7 +2,7 @@
 <br>
 <h2 align="center"> 🧰 Skills</h2>
 
-<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=6&theme=midnight-purple&hide=Shell&langs_count=6"/>
+<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=dark"/>
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
@@ -16,8 +16,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT" height="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Mui" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="50">
-<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=bruno-fonoff&show_icons=true&theme=midnight-purple&count_private=true"/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=tokyonight)
+<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=bruno-fonoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 
 
 ##
