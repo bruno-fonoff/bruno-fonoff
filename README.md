@@ -2,7 +2,7 @@
 <br>
 <h2 align="center"> 🧰 Skills</h2>
 
-<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=7&theme=midnight-purple&hide=Shell&langs_count=6"/>
+<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-fonoff&layout=compact&langs_count=6&theme=midnight-purple&hide=Shell&langs_count=6"/>
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
